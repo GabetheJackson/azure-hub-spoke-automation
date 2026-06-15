@@ -13,5 +13,7 @@ This project demonstrates an enterprise-grade cloud network architecture deploye
 - Plan: terraform plan
 - Apply: terraform apply
 
-Topology,
+Topology
+
+
 <img width="641" height="577" alt="image" src="https://github.com/user-attachments/assets/380c1fb3-e99c-41fe-a054-b9babeffc3f9" />
